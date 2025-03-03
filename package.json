@@ -1,0 +1,26 @@
+{
+  "name": "api_tienda_v1",
+  "version": "1.0.0",
+  "description": "Proyecto api sena ADSO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "ADSO",
+    "SENA",
+    "API",
+    "NODEJS",
+    "EXPRESS"
+  ],
+  "author": "Xiomara Garcia",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.12.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
